@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "name": "Jeff",
+      "gender": "male"
+    },
+    {
+      "name": "Mike",
+      "gender": "male"
+    },
+    {
+      "name": "Jason",
+      "gender": "male"
+    },
+    {
+      "name": "Gus",
+      "gender": "male"
+    },
+    {
+      "name": "Chris",
+      "gender": "male"
+    },
+    {
+      "name": "Manny",
+      "gender": "male"
+    },
+    {
+      "name": "Dino",
+      "gender": "male"
+    },
+    {
+      "name": "Vidal",
+      "gender": "male"
+    },
+    {
+      "name": "Daniel",
+      "gender": "male"
+    },
+    {
+      "name": "Lexy",
+      "gender": "Female"
+    }
+  ]
+}
